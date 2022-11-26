@@ -143,10 +143,6 @@ h1 {
   transition: background 0.3s;
 }
 
-.button:hover {
-  background: rgb(56, 92, 56);
-}
-
 .buttoncard {
   background-color: var(--base-color);
   color: white;
